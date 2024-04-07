@@ -1,1 +1,1 @@
-# EDYODA-Frontend-training-internship-program
+In a process to become MERN-Full stack developer
